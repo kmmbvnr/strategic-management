@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "RunDrill Strategic Management — a self-contained marketplace hosting the strategic-management assistant plugin. The plugin runs a 16-step strategy process for a business owner, backed by the RunDrill MCP engine.",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
@@ -14,9 +14,9 @@
       "source": {
         "source": "github",
         "repo": "kmmbvnr/strategic-management",
-        "ref": "v0.1.0"
+        "ref": "v0.1.1"
       },
-      "description": "Strategic-management assistant for business owners — not a course, an assistant. It runs a proven 16-step strategy process for you, one step at a time: company context, strategy audit, competitor recon, VRIO, market & foresight research, business model (as-is/to-be), customer development, strategy options, Balanced-Scorecard strategy map, KPI/OKR, Hoshin X-matrix, initiative decomposition, and a 12-month management-review rhythm — producing one verified Markdown artifact per step that you review and correct before it moves on. Talks in Russian. Based on the UIB Strategic Management module (2026)."
+      "description": "Strategic-management assistant for business owners — not a course, an assistant. It runs a proven 16-step strategy process for you, one step at a time: company context, strategy audit, competitor recon, VRIO, market & foresight research, business model (as-is/to-be), customer development, strategy options, Balanced-Scorecard strategy map, KPI/OKR, Hoshin X-matrix, initiative decomposition, and a 12-month management-review rhythm — producing one verified Word (.docx) document per step that you review and correct before it moves on. Talks in Russian. Based on the UIB Strategic Management module (2026)."
     }
   ]
 }

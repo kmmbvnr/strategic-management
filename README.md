@@ -8,9 +8,10 @@ lose the thread. It runs inside your AI agent (Claude, Codex, Gemini/Antigravity
 ## What it does
 
 It interviews you for your **company context**, then walks the process step by step — at each step it
-does the work (running web research inline where needed), gives you a short summary, writes the full
-**artifact as a local Markdown file** in your project folder, and waits for you to review and correct it
-before moving on. Your strategy is assembled only from artifacts you've **verified**.
+does the work (running web research inline where needed), gives you a short summary, saves the full
+**artifact as a Word document (.docx)** in your project folder (Markdown fallback only if the host
+can't produce Word), and waits for you to review and correct it before moving on. Your strategy is
+assembled only from artifacts you've **verified**.
 
 The 16 steps:
 

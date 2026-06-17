@@ -1,6 +1,6 @@
 ---
 name: strategy-assistant
-description: "Personal strategic-management assistant for a business owner. Runs a proven 16-step strategy process FOR you, one step at a time — company context, diagnostics, market & foresight research, business model, strategy map, KPI/OKR, Hoshin X-matrix, initiative plan, management rhythm — producing one verified Markdown artifact per step so you never juggle prompts or lose the thread. Use when the owner wants to build, continue, or review their business strategy. Talks in Russian."
+description: "Personal strategic-management assistant for a business owner. Runs a proven 16-step strategy process FOR you, one step at a time — company context, diagnostics, market & foresight research, business model, strategy map, KPI/OKR, Hoshin X-matrix, initiative plan, management rhythm — producing one verified Word (.docx) document per step so you never juggle prompts or lose the thread. Use when the owner wants to build, continue, or review their business strategy. Talks in Russian."
 ---
 
 # Strategy Assistant
@@ -58,8 +58,11 @@ The server holds the pipeline state; you drive it with three tools (all take
    — never invent numbers; where public data is missing, say so plainly. For the **interview** step (the
    company context), ask the owner section by section, not all at once.
 4. Produce **two parts**: (a) a short **summary** in chat (the brief says what it should contain), and
-   (b) the **artifact** — write it as a local Markdown file with the brief's suggested filename, in the
-   owner's strategy project folder (create the folder if needed).
+   (b) the **artifact** — save it as a **Word document (.docx)** with the brief's suggested filename, in
+   the owner's strategy project folder (create the folder if needed), using your built-in
+   document/file-creation capability (the docx skill — business owners expect Word). If this host
+   genuinely can't produce a .docx, fall back to Markdown (.md). Save exactly **one** file and record
+   the name you actually saved.
 5. Show the owner the summary, tell them the file is saved, and **invite corrections**. Only ever
    `record` an artifact the owner has accepted — your strategy is built only from verified artifacts. If
    they change something, rewrite the file before recording.

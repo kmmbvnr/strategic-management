@@ -1,6 +1,6 @@
 {
   "name": "rundrill-strategic-management",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Strategic-management assistant — runs a 16-step strategy workflow for a business owner, one step at a time, inside your AI agent.",
   "author": {
     "name": "RunDrill",

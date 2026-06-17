@@ -1,5 +1,7 @@
 # RunDrill Strategic Management
 
+> **© 2026 Mikhail Podgurskiy / RunDrill — proprietary, all rights reserved.** No use, copying, or distribution without written permission. Licensing & contact: mikhail@viewflow.io
+
 A **strategic-management assistant** for business owners — not a course, an assistant. It runs a proven
 **16-step strategy process** *for* you, one step at a time, so you never juggle a pile of prompts or
 lose the thread. It runs inside your AI agent (Claude, Codex, Gemini/Antigravity) and is backed by the

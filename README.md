@@ -29,16 +29,18 @@ Talks to you in **Russian**.
 
 ## Install
 
+This repo is its own marketplace — the catalog lives alongside the plugin.
+
 **Claude Code / Desktop**
 ```
-/plugin marketplace add rundrill/rundrill
-/plugin install rundrill-strategic-management@rundrill
+/plugin marketplace add kmmbvnr/strategic-management
+/plugin install rundrill-strategic-management@strategic-management
 /reload-plugins        # → /strategy-assistant is live
 ```
 
 **Codex**
 ```
-codex plugin marketplace add rundrill/rundrill
+codex plugin marketplace add kmmbvnr/strategic-management
 codex plugin install rundrill-strategic-management
 ```
 

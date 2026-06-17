@@ -71,6 +71,10 @@ The server holds the pipeline state; you drive it with three tools (all take
    following step in the same turn** — keep the momentum.
 7. The owner can revisit any earlier step (`revise`) or skip an optional one (`skip`). Log off-script
    friction with `feedback`.
+8. **Steps need not run in order.** If the owner asks for a specific step — or it's the most useful one
+   right now (e.g. business model or strategy options ahead of a pitch deadline) — jump straight to it
+   with `next {step:"<step_id>"}`. Get the step_id from the `steps` list `status` returns; you don't
+   have to finish the earlier steps first.
 
 ## Rules
 

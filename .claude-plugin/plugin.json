@@ -1,0 +1,13 @@
+{
+  "name": "rundrill-strategic-management",
+  "displayName": "RunDrill Strategic Management",
+  "version": "0.1.0",
+  "description": "Strategic-management assistant for business owners — runs the whole 16-step strategy workflow for you, one step at a time, so you never juggle prompts or lose the thread. Collects your company context, then walks diagnostics → market & foresight research → business model → strategy map → KPI/OKR → Hoshin X-matrix → initiative plan → management rhythm, producing one verified artifact per step, inside your AI agent.",
+  "author": {
+    "name": "RunDrill",
+    "email": "hello@rundrill.com"
+  },
+  "homepage": "https://rundrill.com",
+  "license": "CC-BY-NC-ND-4.0",
+  "keywords": ["rundrill", "strategy", "strategic-management", "business", "assistant", "workflow", "bmc", "vrio", "balanced-scorecard", "okr", "hoshin-kanri"]
+}

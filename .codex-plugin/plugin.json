@@ -1,0 +1,31 @@
+{
+  "name": "rundrill-strategic-management",
+  "version": "0.1.0",
+  "description": "Strategic-management assistant for business owners — runs the whole 16-step strategy workflow for you, one step at a time, producing one verified artifact per step, inside your AI agent.",
+  "author": {
+    "name": "RunDrill",
+    "email": "hello@rundrill.com",
+    "url": "https://rundrill.com"
+  },
+  "homepage": "https://rundrill.com",
+  "repository": "https://github.com/kmmbvnr/strategic-management",
+  "license": "CC-BY-NC-ND-4.0",
+  "keywords": ["rundrill", "strategy", "strategic-management", "business", "assistant", "workflow", "bmc", "vrio", "balanced-scorecard", "okr", "hoshin-kanri"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "RunDrill Strategic Management",
+    "shortDescription": "A strategy assistant that runs the whole 16-step strategy process for a business owner, step by step.",
+    "longDescription": "Not a course — an assistant. It runs a proven 16-step strategic-management process FOR the owner so they never juggle prompts or lose the thread: it interviews you for your company context, then moves step by step — strategy audit, competitor recon, VRIO, market & customer research, foresight, business model (as-is/to-be), customer-development plan, strategy options, Balanced-Scorecard strategy map, KPI/OKR, Hoshin X-matrix, initiative decomposition, and a 12-month management-review rhythm. At each step it runs the work (web research inline where needed), gives you a short summary, writes the full artifact as a local Markdown file in your project folder, and waits for you to review and correct it before moving on — so your strategy is built only from artifacts you've verified. Backed by the RunDrill MCP engine, which holds your place in the process. Talks to you in Russian.",
+    "developerName": "RunDrill",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "websiteURL": "https://rundrill.com",
+    "defaultPrompt": [
+      "Помоги мне разработать стратегию моего бизнеса по шагам.",
+      "Давай соберём контекст моей компании и начнём.",
+      "Где мы остановились в работе над стратегией?"
+    ],
+    "brandColor": "#3B7AE0"
+  }
+}

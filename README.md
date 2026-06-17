@@ -60,4 +60,4 @@ served at `https://mcp.rundrill.com/strat/strategic-management`.
 
 ## License
 
-[CC BY-NC-ND 4.0](./LICENSE).
+Proprietary — all rights reserved. See [LICENSE](./LICENSE). No use without written permission.
